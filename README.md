@@ -7,7 +7,7 @@ This Alfred workflow does that for you, triggered by a keyboard shortcut. I use 
 
 ## Screenshots
 ### Dropbox Paper
-<img src="dropbox-paper.png" width="300" alt="Screenshot of highlighting in Dropbox Paper">
+<img src="screenshots/dropbox-paper.png" width="300" alt="Screenshot of highlighting in Dropbox Paper">
 
 ### Google Docs
-<img src="google-docs.png" width="300" alt="Screenshot of highlighting in Google Docs">
+<img src="screenshots/google-docs.png" width="300" alt="Screenshot of highlighting in Google Docs">
